@@ -4,4 +4,4 @@ Disallow: /nogooglebot/
 User-agent: *
 Allow: /
 
-Sitemap: https://lfcg.pages.dev/sitemap.xml
+Sitemap: https://lfcg-medan.github.io/lfcg-medan/sitemap.xml
